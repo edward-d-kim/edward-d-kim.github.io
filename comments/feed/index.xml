@@ -11,12 +11,12 @@
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Wed, 19 Jul 2023 16:31:09 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 31 Aug 2023 00:38:18 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 	<item>
 		<title>
 		Comment on Welcome! by A WordPress Commenter		</title>
